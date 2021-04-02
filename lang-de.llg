@@ -22,17 +22,17 @@ return {
     author     = "Denis Maier & Hans Hagen",
     copyright  = "ConTeXt development team & whoever made this list",
     options    = {
-		{
-			actions = {
-				["|"] = "noligature"
-			},
-			words = [[
-				Auf|lagefläche
-				Auf|lageflächen
-				Auf|lagenziffer
+        {
+            actions = {
+                ["|"] = "noligature"
+            },
+            words = [[
+                Auf|lagefläche
+                Auf|lageflächen
+                Auf|lagenziffer
                 Auf|lagenziffern
-			]],
-		},
+            ]],
+        },
         {
             patterns = {
                 ff  = "f|f",
@@ -534,7 +534,7 @@ return {
                 Aufladungen
                 Auflage
                 Auflagen
-				Auflagenerhöhung
+                Auflagenerhöhung
                 Auflagenerhöhungen
                 Auflagenstark
                 Auflagenstarke
@@ -1619,11 +1619,11 @@ return {
                 Uraufführung
                 Uraufführungen
                 übertariflich 
-				übertarifliche 
-				übertariflichem 
-				übertariflichen 
-				übertariflicher 
-				übertarifliches
+                übertarifliche 
+                übertariflichem 
+                übertariflichen 
+                übertariflicher 
+                übertarifliches
                 verelffache
                 verelffachen
                 verelffachend
@@ -1801,38 +1801,38 @@ return {
                 Zwölffingerdarms
             ]],
         },
-		{
-			patterns = {
+        {
+            patterns = {
                 ffi = "ff|i",
                 ffl = "ff|l",
-				fff = "ff|f",
-			},
-			words = [[
-				-- ffi
-				Baustoffindustrie
+                fff = "ff|f",
+            },
+            words = [[
+                -- ffi
+                Baustoffindustrie
                 Baustoffindustrien
                 Baustoffingenieur
                 Baustoffingenieure
-				Kleiderstoffindustrie
-				Kunststoffindustrie
-				Rohstoffindex
+                Kleiderstoffindustrie
+                Kunststoffindustrie
+                Rohstoffindex
                 Rohstoffindexe
                 Rohstoffindices
                 Rohstoffindustrie
                 Rohstoffingenieur
                 Rohstoffingenieure
-				-- ffl
-				begrifflich
+                -- ffl
+                begrifflich
                 begriffliche
                 begrifflichem
                 begrifflichen
                 begrifflicher
                 begriffliches
-				Büffler
+                Büffler
                 Büfflerin
                 Büfflerinnen
-				inbegriffleitend
-				knifflig
+                inbegriffleitend
+                knifflig
                 knifflige
                 kniffligem
                 kniffligen
@@ -1849,18 +1849,18 @@ return {
                 kniffligsten
                 kniffligster
                 kniffligstes
-				Knoepffler
-				Löffler
-				offline
-				Schnüffler
+                Knoepffler
+                Löffler
+                offline
+                Schnüffler
                 Schnüfflerin
                 Schnüfflerinnen
                 Schnüfflern
                 Schnüfflers
-				Steuerschnüffler
+                Steuerschnüffler
                 Steuerschnüfflern
                 Steuerschnüfflers
-				trefflich
+                trefflich
                 treffliche
                 trefflichem
                 trefflichen
@@ -1878,24 +1878,24 @@ return {
                 trefflichsten
                 trefflichster
                 trefflichstes
-				unübertrefflich
-				vortrefflich
+                unübertrefflich
+                vortrefflich
                 vortreffliche
                 vortrefflichem
                 vortrefflichen
                 vortrefflicher
                 vortreffliches
-				-- fff
+                -- fff
                 grifffest
                 grifffeste
                 grifffestem
                 grifffesten
                 grifffester
                 grifffestes
-				Sprengstofffallen
-				Schifffahrt
-			]],
-		},
+                Sprengstofffallen
+                Schifffahrt
+            ]],
+        },
         {
             patterns = {
                 ft  = "f|t",
@@ -1904,7 +1904,7 @@ return {
             words = [[
                 Auftakt
                 auftanken
-				auftasten
+                auftasten
                 auftat
                 auftauen
                 auftaute
@@ -2060,13 +2060,13 @@ return {
              -- fünft zu elft zu zwölft
                 zwölftönend
                 Zwölftonmusik
-				Elftonner
-				Golftour
+                Elftonner
+                Golftour
                 Senftopf
-				Senftöpfchen
+                Senftöpfchen
                 Freiwurftor
-				Surftour
-				Dorftourismus
+                Surftour
+                Dorftourismus
             ]],
         },
         {
@@ -2078,77 +2078,77 @@ return {
                 abrufbar
                 Anrufbeantworter
                 aufbahren 
-				aufbauen 
-				aufbegehren 
-				aufbereiten 
-				aufbessern 
-				aufbewahren 
-				aufbefördern 
-				aufbieten 
-				aufblasen 
-				aufblicken 
-				Aufblick 
-				aufblitzen 
-				aufblähen 
-				aufblühen 
-				aufbrauchen 
-				aufbrausen 
-				aufbrechen 
-				aufbringen 
-				Aufbruch 
-				aufbäumen 
-				aufbürden
+                aufbauen 
+                aufbegehren 
+                aufbereiten 
+                aufbessern 
+                aufbewahren 
+                aufbefördern 
+                aufbieten 
+                aufblasen 
+                aufblicken 
+                Aufblick 
+                aufblitzen 
+                aufblähen 
+                aufblühen 
+                aufbrauchen 
+                aufbrausen 
+                aufbrechen 
+                aufbringen 
+                Aufbruch 
+                aufbäumen 
+                aufbürden
                 Aufbauspieler
                 Briefbombe 
-				Briefbogen
+                Briefbogen
                 Chefberater
                 Dampfbad 
-				Dorfbewohner 
-				Dorfbewohnerin 
-				Dorfbevölkerung
+                Dorfbewohner 
+                Dorfbewohnerin 
+                Dorfbevölkerung
                 greifbar 
-				angreifbar 
-				unangreifbar 
-				griffbereit 
-				Golfball
+                angreifbar 
+                unangreifbar 
+                griffbereit 
+                Golfball
                 Griffbrett
                 Briefbeschwerer 
-				Hofbräuhaus
+                Hofbräuhaus
                 Kopfbewegung 
-				Kopfball 
-				Kopfbedeckung 
-				Kaufbeleg 
-				kampfbetont
+                Kopfball 
+                Kopfbedeckung 
+                Kaufbeleg 
+                kampfbetont
                 Laufbahn 
-				Laufband 
-				Laufbereitschaft 
-				Laufbursche
+                Laufband 
+                Laufbereitschaft 
+                Laufbursche
                 Raufbold 
-				Rohstoffboom 
-				Regenüberlaufbecken
+                Rohstoffboom 
+                Regenüberlaufbecken
                 Schadstoffbelastung 
-				Schlafbedürfnis 
-				Scharfblick
+                Schlafbedürfnis 
+                Scharfblick
                 schiffbar 
-				Schiffbau 
-				Schiffbruch
+                Schiffbau 
+                Schiffbruch
                 steifbeinig 
-				Stoffbahnen
+                Stoffbahnen
                 Sauerstoffbedarf 
-				Stiefbruder
+                Stiefbruder
                 Strafbestimmungen 
-				strafbar 
-				Strafbefehl
+                strafbar 
+                Strafbefehl
                 Surfbretter
                 Tarifbezirk 
-				Tarifbindung
+                Tarifbindung
                 Tiefbau 
-				tiefbelustigt 
-				tiefblau
+                tiefbelustigt 
+                tiefblau
                 tiefblaue
                 tiefblauer
                 Umlaufbahn 
-				überprüfbar
+                überprüfbar
                 (un)widerrufbar
                 Wasserstoffbombe
                 Wiederaufbau
@@ -2161,61 +2161,61 @@ return {
             },
             words = [[
                 aufhaben 
-				aufhacken 
-				aufhalsen 
-				aufhalten 
-				aufhatte 
-				aufheben 
-				aufheitern 
-				aufheizen 
-				aufhelfen 
-				aufhellen 
-				aufhetzen 
-				aufheulen 
-				aufholen 
-				aufhorchen 
-				aufhängen 
-				aufhören 
-				aufhübschen
+                aufhacken 
+                aufhalsen 
+                aufhalten 
+                aufhatte 
+                aufheben 
+                aufheitern 
+                aufheizen 
+                aufhelfen 
+                aufhellen 
+                aufhetzen 
+                aufheulen 
+                aufholen 
+                aufhorchen 
+                aufhängen 
+                aufhören 
+                aufhübschen
                 Chefhändler
                 daraufhin 
-				draufhat 
-				draufhauen
+                draufhat 
+                draufhauen
                 Dorfhaus
                 Eislaufhalle
                 fünfhundert
                 Hofherr
                 Kampfhandlung 
-				Kampfhubschrauber 
-				Kampfhunde 
-				Kampfhähne
+                Kampfhubschrauber 
+                Kampfhunde 
+                Kampfhähne
                 Kopfhaar 
-				Kopfhaltung 
-				Kopfhaube 
-				Kopfhaut 
-				Kopfhörer
+                Kopfhaltung 
+                Kopfhaube 
+                Kopfhaut 
+                Kopfhörer
                 Kaufhalle 
-				Kaufhaus 
-				Kaufherr 
-				Kaufhold
+                Kaufhaus 
+                Kaufherr 
+                Kaufhold
                 krampfhaft
                 Schafhaltung 
-				Schafherde 
-				Schafhirte
+                Schafherde 
+                Schafhirte
                 Schilfhütte
                 Steifheit 
-				Schlaffheit
+                Schlaffheit
                 Strafhaft
                 Strumpfhose 
-				Stumpfheit
+                Stumpfheit
                 Topfhaarschnitt
                 unaufhaltsam 
-				unaufhörlich
+                unaufhörlich
                 Wahlkampfhelfer
                 Impfstoffhersteller
                 Luftschiffhafen
                 Pfaffhausen 
-				Schaffhausen
+                Schaffhausen
                 Riffhai
                 Stoffhändler
                 Werkstoffhof
@@ -2228,47 +2228,47 @@ return {
             },
             words = [[
                 aufjagen 
-				aufjaulen 
-				aufjauchzen 
-				aufjohlt
+                aufjaulen 
+                aufjauchzen 
+                aufjohlt
                 Dorfjunge 
-				Dorfjustiz 
-				Dorfjugend 
-				Dorfjäger 
-				Dorfjubiläum
+                Dorfjustiz 
+                Dorfjugend 
+                Dorfjäger 
+                Dorfjubiläum
                 Fünfjahresplan 
-				Fünfjahresfeier 
-				Knefjahr 
-				Tarifjahr 
-				Strafjahr
+                Fünfjahresfeier 
+                Knefjahr 
+                Tarifjahr 
+                Strafjahr
                 fünfjährig 
-				elfjährig 
-				zwölfjährig
+                elfjährig 
+                zwölfjährig
                 Kopfjäger 
-				Kopfjucken 
-				Kopfjagd
+                Kopfjucken 
+                Kopfjagd
                 Strafjustiz 
-				Strafjurist 
-				Strafjuristin
-				Chefjurist
-				Chefjuristin
+                Strafjurist 
+                Strafjuristin
+                Chefjurist
+                Chefjuristin
                 Laufjunge 
                 Laufjungen 
-				Laufjahr 
-				Laufjacke
+                Laufjahr 
+                Laufjacke
                 Wahlkampfjahr 
                 Wahlkampfjahre
-				Wettkampfjahr 
-				Wettkampfjahre 
-				Kampfjet
+                Wettkampfjahr 
+                Wettkampfjahre 
+                Kampfjet
                 Stoffjacke
                 Kampfjagd 
-				Kampfjodeln
+                Kampfjodeln
                 Hofjäger
                 Golfjahr 
-				Golfjunge 
-				Golfjungen 
-				Golfjunioren
+                Golfjunge 
+                Golfjungen 
+                Golfjunioren
                 Golfjuniorinnen
              -- Sognefjord Dovrefjell Prokofjew
             ]],
@@ -2280,44 +2280,44 @@ return {
             },
             words = [[
                 aufkam 
-				aufkaufen 
-				aufkeimen 
-				aufkehren 
-				aufklaffen 
-				aufkläffen 
-				aufklappen 
-				aufklatschen 
-				aufklauben 
-				aufkleben 
-				aufklären 
-				aufklingen 
-				aufklopfen 
-				aufknacken 
-				aufknöpfen 
-				aufknüpfen 
-				aufkochen 
-				aufkommen 
-				aufkreischen 
-				aufkrempeln 
-				aufkreuzen 
-				aufkriegen 
-				aufkurbeln 
-				aufkündigen
+                aufkaufen 
+                aufkeimen 
+                aufkehren 
+                aufklaffen 
+                aufkläffen 
+                aufklappen 
+                aufklatschen 
+                aufklauben 
+                aufkleben 
+                aufklären 
+                aufklingen 
+                aufklopfen 
+                aufknacken 
+                aufknöpfen 
+                aufknüpfen 
+                aufkochen 
+                aufkommen 
+                aufkreischen 
+                aufkrempeln 
+                aufkreuzen 
+                aufkriegen 
+                aufkurbeln 
+                aufkündigen
                 Napfkuchen 
-				Stopfkugel 
-				Briefkasten Briefkästen 
-				Kopfkissen
+                Stopfkugel 
+                Briefkasten Briefkästen 
+                Kopfkissen
                 Kehlkopfknoten 
-				Kaufkraft
+                Kaufkraft
                 Pfeifkonzert Pfeifkonzerte
-				Trumpfkarte Trumpfkarten
+                Trumpfkarte Trumpfkarten
                 Tarifkonflikt Tarifkonflikte 
-				Tarifkommission Tarifkommissionen
+                Tarifkommission Tarifkommissionen
                 Stoffkissen 
-				Stoffkatze Stoffkatzen
-				Treibstoffkosten 
-				Kliffkante Kliffkanten
-				Auspuffklang
+                Stoffkatze Stoffkatzen
+                Treibstoffkosten 
+                Kliffkante Kliffkanten
+                Auspuffklang
             ]],
         }
     }
