@@ -24,11 +24,30 @@ return {
     options    = {
         {
             matches = { 1 },
+			patterns = {
+				fl  = "f|l",
+				ffl  = "ff|l",
+			},
             words = [[
                 Auflagefläche
                 Auflageflächen
                 Auflagenziffer
                 Auflagenziffern
+				Auflauffläche
+				Offlinezugriff
+			    Offlinezugriffe
+			    Offlinezugriffs 
+            ]],
+        },
+		{
+            matches = { 1 },
+			patterns = {
+				ffl  = "f|fl",
+			},
+            words = [[
+				Tieffliegerangriff
+				Tieffliegerangriffe
+				Tieffliegerangriffen
             ]],
         },
         {
