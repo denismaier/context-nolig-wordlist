@@ -23,14 +23,12 @@ return {
     copyright  = "ConTeXt development team & whoever made this list",
     options    = {
         {
-            actions = {
-                ["|"] = "noligature"
-            },
+            matches = { 1 },
             words = [[
-                Auf|lagefläche
-                Auf|lageflächen
-                Auf|lagenziffer
-                Auf|lagenziffern
+                Auflagefläche
+                Auflageflächen
+                Auflagenziffer
+                Auflagenziffern
             ]],
         },
         {
@@ -42,6 +40,7 @@ return {
                 ffl = "f|fl",
             },
             words = [[
+				
                 Auflaufform
                 Auflaufformen
                 Ablauffolge
@@ -1899,7 +1898,7 @@ return {
         {
             patterns = {
                 ft  = "f|t",
-                fft = "fft",
+                fft = "ff|t",
             },
             words = [[
                 Auftakt
